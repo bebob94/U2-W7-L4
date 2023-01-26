@@ -1,0 +1,20 @@
+body {
+  background-color: darkslategrey !important;
+}
+
+h1 {
+  margin: 2em;
+  text-align: center;
+}
+.imageCard {
+  height: 25% !important;
+}
+
+.card-body {
+  background-color: mediumpurple;
+  height: 200px;
+}
+
+.delet {
+  display: none;
+}
